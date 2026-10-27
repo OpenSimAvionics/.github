@@ -1,6 +1,6 @@
 # OpenSimAvionics
 
-Open-source flight simulator avionics.
+Open-source flight simulator avionics that are meant to 1:1 scale and be a drop-in replacement for the popular and off-the-shelf versions of the panels.
 
 ## Technology Used
 
