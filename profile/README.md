@@ -14,3 +14,6 @@ Open-source 1:1 flight simulator avionics panels that are meant to be drop-in re
 - A320 TCAS Panel
 - A320 ECAM Panel
 - A320 Glare Shield
+- G1000 Display Suite
+- General-purpose electronically displayed gauge
+- Motor-driven gauges
