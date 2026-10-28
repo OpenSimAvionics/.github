@@ -8,3 +8,9 @@ Open-source 1:1 flight simulator avionics panels that are meant to be drop-in re
 - Microcontroller: Raspberry Pi Pico 2
 - Microcontroller programming: C99
 - Companion app programming: C++ and Raylib/Raygui
+
+## Upcoming Projects
+
+- A320 TCAS Panel
+- A320 ECAM Panel
+- A320 Glare Shield
